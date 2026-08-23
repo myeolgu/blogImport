@@ -13,7 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Untitled site',
+  title: 'ToolScout — Find the right AI tool',
+  description: 'Independent AI tool comparisons for creators.',
 };
 
 export default function RootLayout({
